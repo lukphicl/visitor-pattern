@@ -7,6 +7,8 @@ using namespace std;
 #include "StackBasedNameCountingVisitor.h"
 #include "NonStackBasedNameCountingVisitor.h"
 
+//What does this project do again? I forgot already
+
 int main(int argc, char** argv) {
     File f1("f1.txt", 100);
     File f2("f2.txt", 80);
